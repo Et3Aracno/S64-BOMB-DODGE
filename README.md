@@ -28,8 +28,10 @@ Un compilateur C++ compatible (GCC, Clang, MSVC, etc.)
 
 🕹 COMMANDES
 
-🔹 Flèches directionnelles : Déplacer la souris ⬆️⬇️⬅️➡️
-🔹 Évitez les bombes pour survivre 💨 
+🔹 Flèches directionnelles : Déplacer la souris ⬆️⬇️⬅️➡️  
+
+🔹 Évitez les bombes pour survivre 💨  
+
 🔹 Accumulez des points en restant en vie 🎯
 
 📸 CAPTURES D'ÉCRAN
